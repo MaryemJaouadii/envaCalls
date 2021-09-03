@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942925195420",
+    "project_id": "envacalls-2",
+    "storage_bucket": "envacalls-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942925195420:android:fb3940b7e659fde5aae559",
+        "android_client_info": {
+          "package_name": "com.example.try_salestrail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942925195420-pufllpos6lmd7intick4pg5bnr3sl5og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkddozekpF8H_pFk71ysoKZ4XDLNWbwWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942925195420-pufllpos6lmd7intick4pg5bnr3sl5og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
